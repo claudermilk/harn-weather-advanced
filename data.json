@@ -1,0 +1,16 @@
+{
+  "latitude": 1,
+  "climateZone": 2,
+  "day": 1,
+  "month": 0,
+  "year": 720,
+  "change": -1,
+  "units": 1,
+  "useadv": false,
+  "subzone": 0,
+  "elevation": 0,
+  "shadow": 0,
+  "prevwind": 5,
+  "windshadow": false,
+  "zone": 0
+}

@@ -1,0 +1,11 @@
+{
+	"id": "harn-weather-adv",
+	"name": "Hârn Weather Generator",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Unofficial Hârn weather generator. Generates the campaign weather for different time spans. The weather includes precipitation, temperature, wind direction and speed, moon phases and critical conditions for the whole of Western Venârivè. Advanced--location-specific charts.",
+	"author": "Marc André Ueberall",
+	"authorUrl": "https://www.marcueberall.com/",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
